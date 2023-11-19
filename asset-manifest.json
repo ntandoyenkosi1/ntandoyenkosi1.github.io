@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ntandoyenkosi1/static/css/main.1c96e21a.css",
-    "main.js": "/ntandoyenkosi1/static/js/main.d7e4c70c.js",
-    "static/media/homepage.jpg": "/ntandoyenkosi1/static/media/homepage.3391aa62600568b5ac84.jpg",
-    "static/media/uct.png": "/ntandoyenkosi1/static/media/uct.41df330cd1a67a08f1d6.png",
-    "static/media/ntandoyenkosi.jpg": "/ntandoyenkosi1/static/media/ntandoyenkosi.ecfc44f0fb95a9940c9c.jpg",
-    "static/media/postman-to-markdown.png": "/ntandoyenkosi1/static/media/postman-to-markdown.0785a2fec34872fa2a9a.png",
-    "index.html": "/ntandoyenkosi1/index.html",
-    "main.1c96e21a.css.map": "/ntandoyenkosi1/static/css/main.1c96e21a.css.map",
-    "main.d7e4c70c.js.map": "/ntandoyenkosi1/static/js/main.d7e4c70c.js.map"
+    "main.css": "/static/css/main.1c96e21a.css",
+    "main.js": "/static/js/main.25be2c09.js",
+    "static/media/homepage.jpg": "/static/media/homepage.3391aa62600568b5ac84.jpg",
+    "static/media/uct.png": "/static/media/uct.41df330cd1a67a08f1d6.png",
+    "static/media/ntandoyenkosi.jpg": "/static/media/ntandoyenkosi.ecfc44f0fb95a9940c9c.jpg",
+    "static/media/postman-to-markdown.png": "/static/media/postman-to-markdown.0785a2fec34872fa2a9a.png",
+    "index.html": "/index.html",
+    "main.1c96e21a.css.map": "/static/css/main.1c96e21a.css.map",
+    "main.25be2c09.js.map": "/static/js/main.25be2c09.js.map"
   },
   "entrypoints": [
     "static/css/main.1c96e21a.css",
-    "static/js/main.d7e4c70c.js"
+    "static/js/main.25be2c09.js"
   ]
 }
